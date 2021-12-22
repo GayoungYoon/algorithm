@@ -18,3 +18,5 @@
 -containg함수를 쓰기 위해 Character형 HashSet 사용
 - UniqueEmail.java : @ 값을 기준으로 로컬네임과 도메인네임으로 String 분리 후 각각의 규칙에 맞게 String 가공  
 -replaceAll과 Split 함수 사용
+- plusOne.java. 
+-문자열 함수를 사용했다기 보다 indexing하는게 더 어려웠던 문제 > flag 같은 배열을 하나 더 추가해서 solve
