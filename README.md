@@ -22,3 +22,7 @@
 -replaceAll과 Split 함수 사용
 - plusOne.java  
 -문자열 함수를 사용했다기 보다 indexing하는게 더 어려웠던 문제 > flag 같은 배열을 하나 더 추가해서 solve
+
+
+2022.03.05
+- 큐 안에서 인덱스는 항상 remove() 해온거 기준으로 하기. 명심 또 명심.
