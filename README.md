@@ -61,10 +61,10 @@
 : 종료조건 카운트는 0부터 시작해서 그래프길이 -1 까지 다 순회하고 나서 그래프 길이와 같아졌을 때 값을 비교한다.
 
 2022.05.01
-- [전화번호목록] (https://github.com/GayoungYoon/algorithm/blob/master/Hash/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.java)
+- [전화번호목록](https://github.com/GayoungYoon/algorithm/blob/master/Hash/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.java)
 - 전화번호 목록 문제 : Hash를 사용하여 한 문자열이 다른 문자열의 접두어가 될 수 있는지 파악
 - 똑같은 이중 포문이지만 문자를 equals로 비교할 때보다, hash에 담아놓고 substring을 계속 hash와 체크하는 것이 더 효율적이었다.
 
 2022.05.02
- - [위장] ( https://github.com/GayoungYoon/algorithm/blob/master/Hash/%EC%9C%84%EC%9E%A5.java )
+ - [위장]( https://github.com/GayoungYoon/algorithm/blob/master/Hash/%EC%9C%84%EC%9E%A5.java )
 - hash를 사용할 땐 get 이후 null인지 체크하지 말고 contains 함수를 쓰자
