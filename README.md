@@ -30,6 +30,11 @@
 
 2022.03.05
 - **** 실수 list *****
+- [MaximumDepthOfBinaryTree](https://github.com/GayoungYoon/algorithm/blob/master/DFS/MaximumDepthOfBinaryTree.java)
+  -TreeNode를 사용하여 최대 depth 구하기
+- [NumberOfIslands](https://github.com/GayoungYoon/algorithm/blob/master/DFS/NumberOfIslands.java)
+
+
 - [bfs] 큐 안에서 인덱스는 항상 remove() 해온거 기준으로 하기. 명심 또 명심.
 - [dfs] 최대값을 가져와야 하는 경우 return 부분에서 항상 비교 후에 최대값 return! 
 
