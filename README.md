@@ -52,6 +52,10 @@
 3. 방문처리를 제때 잘 해주었는가
 
 
+언젠가
+- [ValidParentheses](https://github.com/GayoungYoon/algorithm/blob/master/Stack/ValidParentheses.java)
+- stack뿐 아니라 s.toCharArray() , hashmap의 get put 등 사용
+
 2022.03.17
 1. 타겟 넘버를 다시 구현해보았다.
 2. dfs를 구현할 때는 아래것을을 체크해본다.
