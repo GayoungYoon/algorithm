@@ -6,9 +6,10 @@
 
 2021.09.13 
 - [정규식정리](https://github.com/GayoungYoon/algorithm/blob/master/%EC%A0%95%EA%B7%9C%EC%8B%9D/%EC%A0%95%EA%B7%9C%EC%8B%9D.md)
-- [comparator과 sort] 문자열 내 마음대로 정렬하기.java
+- [문자열 내 마음대로 정렬하기](https://github.com/GayoungYoon/algorithm/blob/master/%EC%A0%95%EB%A0%AC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_comparator.java)
+  -Comparator와 compare overriding
 - [신규아이디 추천](https://github.com/GayoungYoon/algorithm/blob/master/%EC%A0%95%EA%B7%9C%EC%8B%9D/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C_%EC%A0%95%EA%B7%9C%EC%8B%9D%ED%92%80%EC%9D%B4.java)
-- 정규식과 replaceAll
+  -정규식과 replaceAll
 - [문자숫자열과 영단어](https://github.com/GayoungYoon/algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%88%AB%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4_replaceAll%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%92%80%EC%9D%B4.java)
 
 
@@ -34,15 +35,15 @@
 
 
 2022.03.06
--[네트워크](https://github.com/GayoungYoon/algorithm/blob/master/DFS/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java)
+- [네트워크](https://github.com/GayoungYoon/algorithm/blob/master/DFS/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java)
 - notice! bfs/네트워크.java 에서는 입력값이 2차원이지만 양방향그래프이기떄문에 체크를 1차원 배열로 하였다. 한번 더 보면 좋을 듯하다.
 
 2022.03.12
--[네트워크](https://github.com/GayoungYoon/algorithm/blob/master/BFS/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java)
+- [네트워크](https://github.com/GayoungYoon/algorithm/blob/master/BFS/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java)
 - 네트워크 문제를 dfs로 풀어보았다. 탐색의 시작은 항상 직전 탐색의 마지막 지점에서 이루어져야함을 잊지 말자
 
 2022.03.16
--[단어변환](https://github.com/GayoungYoon/algorithm/blob/master/DFS/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.java)
+- [단어변환](https://github.com/GayoungYoon/algorithm/blob/master/DFS/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.java)
 - 단어 변환. 반성한다.
 반성할점 1. 문제 해석을 잘못했다. 주어진 단어 목록에서 무조건 순차적으로 탐색을 해야되는 줄 알았다.
 반성할점 2. 그래서 그 조합문제처럼 경우의 수에 따라 dfs 탐색을 해버렸다. 
