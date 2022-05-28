@@ -68,3 +68,7 @@
 2022.05.02
  - [위장]( https://github.com/GayoungYoon/algorithm/blob/master/Hash/%EC%9C%84%EC%9E%A5.java )
 - hash를 사용할 땐 get 이후 null인지 체크하지 말고 contains 함수를 쓰자
+
+2022.05.28
+ - [기능개발](https://github.com/GayoungYoon/algorithm/blob/master/Queue/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java)
+ - 두가지 값을 비교할 땐, 기준값을 다시 바꿔주는 과정 / 마지막 값을 비교할 때 등을 잘 고려해야 함.
