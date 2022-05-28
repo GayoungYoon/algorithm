@@ -72,6 +72,7 @@
 2022.05.02
  - [위장]( https://github.com/GayoungYoon/algorithm/blob/master/Hash/%EC%9C%84%EC%9E%A5.java )
 - hash를 사용할 땐 get 이후 null인지 체크하지 말고 contains 함수를 쓰자
+- hash를 iterationing 하고 싶을 떈 ( String key : map.keySet()){ ... } 을 사용
 
 2022.05.28
  - [기능개발](https://github.com/GayoungYoon/algorithm/blob/master/Queue/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java)
